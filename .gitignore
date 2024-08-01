@@ -4,16 +4,7 @@
 *.so
 *.swp
 
-# IDE settings
-.vscode
-.idea
-.settings
-.cproject
-.project
 
-# VIM files
-cscope*
-tags
 
 # Menuconfig temp files
 /config.h
